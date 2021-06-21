@@ -5,5 +5,7 @@ In this project, we picked one of the 50 datasets and use PySpark to perform the
 
 ## Results
 ![capture](Capture.PNG)
+From the analysis, we can conclude that:
+- There are 3 vine reviews and 
 
 ## Summary
