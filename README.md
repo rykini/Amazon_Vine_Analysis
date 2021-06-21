@@ -5,6 +5,7 @@ In this project, we picked one of the 50 datasets and use PySpark to perform the
 
 ## Results
 ![capture](Capture.PNG)
+
 From the analysis, we can conclude that:
 - There are 3 Vine reviews and 3094 non-Vine reviews.
 - Out of the 3 Vine reviews, 2 of them are 5 star. Out of the 3094 non-Vine reviews, 1704 of them are 5 star.
